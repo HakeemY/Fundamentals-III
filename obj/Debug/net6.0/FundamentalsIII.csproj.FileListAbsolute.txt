@@ -1,0 +1,15 @@
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.deps.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.runtimeconfig.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.AssemblyReference.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfoInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfo.cs
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.CoreCompileInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/refint/FundamentalsIII.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.genruntimeconfig.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/FundamentalsIII/obj/Debug/net6.0/ref/FundamentalsIII.dll
